@@ -18,7 +18,7 @@ This project provides real-time insights into the performance of automated tradi
 **Description:**  
 A comprehensive solution for financial modeling and forecasting designed to support scenario analysis and strategic decision-making. *(Details coming soon.)*
 
-**Link:** TBD
+**Link:** [Excel Projects](https://github.com/mahmoud25112/Financial-data-analysis/tree/main/Excel%20Work)
 
 ---
 
